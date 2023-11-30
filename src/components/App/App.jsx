@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import * as API from '../../services/PixabayApi';
+import * as API from '../services/PixabayApi';
 import { SearchBar } from '../SearchBar/SearchBar';
 import { ImageGallery } from '../ImageGallery/ImageGallery';
 import { Loader } from '../Loader/Loader';
